@@ -15,6 +15,6 @@ This folder contains derived data, Jupyter notebooks to analyze and visualize th
 
 This repo also contains several wordcloud visualizations that came out of the notebooks.
 
-<center> <img src="https://github.com/user-attachments/assets/1027b73a-f140-4581-a85c-080b86dc0341" width="300" height="200">!</center>
+<center> <img src="https://github.com/user-attachments/assets/1027b73a-f140-4581-a85c-080b86dc0341" width="300" height="300"></center>
 
 
