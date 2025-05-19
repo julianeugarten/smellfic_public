@@ -1,4 +1,5 @@
 
+<center><img src="https://github.com/user-attachments/assets/1027b73a-f140-4581-a85c-080b86dc0341" width="300" height="300"></center>
 This folder contains derived data, Jupyter notebooks to analyze and visualize the data, and selected visualizations in wordclouds for the paper *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* by Julia Neugarten and Marieke van Erp for DH Benelux 2025.
 
 **Data**
@@ -15,6 +16,5 @@ This folder contains derived data, Jupyter notebooks to analyze and visualize th
 
 This repo also contains several wordcloud visualizations that came out of the notebooks.
 
-<center> <img src="https://github.com/user-attachments/assets/1027b73a-f140-4581-a85c-080b86dc0341" width="300" height="300"></center>
 
 
