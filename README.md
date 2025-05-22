@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/1027b73a-f140-4581-a85c-080b86dc0341" width="300" height="300">
 
 
-This folder contains derived data, Jupyter notebooks to analyze and visualize the data, and selected visualizations in wordclouds for the paper *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* by Julia Neugarten and Marieke van Erp for DH Benelux 2025.
+This folder contains derived data, Jupyter notebooks to analyze and visualize the data, and selected visualizations in wordclouds for the paper [*What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo*](https://zenodo.org/records/15424192) by Julia Neugarten and Marieke van Erp for DH Benelux 2025.
 
 **Data**
 - Mythfic-frames_redacted: output of the [Odeuropa Smell Extractor](https://github.com/Odeuropa/wp3-information-extraction-system-v2), ([model on Zenodo](https://zenodo.org/records/10598306)), with the actual fanfiction-texts redacted.
